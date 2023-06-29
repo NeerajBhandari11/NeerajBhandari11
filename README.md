@@ -3,7 +3,7 @@
 
 I am an experienced Data Scientist with a Master's in Data Science. I come with extensive experience working with different technologies including Data Science, Machine Learning, Deep Learning, and Natural Language Processing.
 
-I have worked with companies like AB-InBev, DXC Technology, and Cognizant as a Data Scientist.
+I have worked with companies like AB-InBev, Cognizant, and DXC Technology as a Data Scientist.
 
 ### Things I'm good at 🔥
 
