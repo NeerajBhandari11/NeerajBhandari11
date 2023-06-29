@@ -19,5 +19,11 @@ Data Analysis: Exploratory Data Analysis, Ensemble Methods, Strong Statistical F
 ### 📫 How to reach me: 
 neerajbhandari1193@gmail.com
 
+### You can find my projects and previous work here
+
+[Data Science Portfolio](https://github.com/NeerajBhandari11/Data-Science-portfolio)
+
+
+
 
 
