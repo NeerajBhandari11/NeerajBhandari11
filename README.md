@@ -16,7 +16,8 @@ Libraries & Tools: Pandas, NumPy, Scikit-Learn, SciPy, Matplotlib, NLTK, Power B
 Data Analysis: Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods.
 
 
-📫 How to reach me: neerajbhandari11932gmail.com
+### 📫 How to reach me: 
+neerajbhandari1193@gmail.com
 
 
 
